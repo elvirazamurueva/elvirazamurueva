@@ -1,16 +1,163 @@
-## Hi there 👋
+# Привет! Я Elvira 👋
 
-<!--
-**elvirazamurueva/elvirazamurueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI / Vibe Coder
 
-Here are some ideas to get you started:
+Создаю прикладные AI-сервисы, ботов и автоматизацию с использованием современных языковых моделей и API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мой фокус — не просто написать код, а собрать работающий инструмент, который решает конкретную задачу пользователя или бизнеса.
+
+---
+
+## Что я умею
+
+* 🤖 **AI-сервисы и AI-интеграции**
+* 🧠 **AI-агенты и работа с LLM**
+* 💬 **Telegram- и VK-боты**
+* 🔌 **API, REST API и вебхуки**
+* ⚙️ **Автоматизация процессов**
+* 📄 **Обработка документов и генерация PDF**
+* 🗄️ **Работа с базами данных**
+* 🌐 **Небольшие веб-приложения и backend-сервисы**
+* 🔗 **Интеграция нескольких сервисов в единое решение**
+
+---
+
+## 🛠️ Технологии
+
+**Язык**
+
+`Python`
+
+**Backend и API**
+
+`FastAPI` · `Flask` · `REST API` · `Webhooks`
+
+**AI**
+
+`LLM` · `GenAPI` · `ProxyAPI` · `AI Agents` · `MCP`
+
+**Базы данных**
+
+`SQLite` · `PostgreSQL` · `SQLAlchemy`
+
+**Боты**
+
+`Telegram` · `aiogram` · `VK`
+
+**Инструменты**
+
+`Git` · `GitHub` · `Docker` · `GitHub Actions`
+
+---
+
+## 🚀 Избранные проекты
+
+### AI triage — классификация обращений и подготовка ответов
+
+**[VPk04.1-](https://github.com/elvirazamurueva/VPk04.1-)**
+
+Учебный MVP HTTP-сервиса для автоматической обработки обращений клиентов.
+
+Сервис принимает обращение, передаёт его языковой модели через GenAPI, классифицирует запрос, формирует черновик ответа и оценивает уверенность результата.
+
+**Стек:** Python · HTTP API · GenAPI · LLM
+
+---
+
+### AI-консультант книжного магазина на MCP
+
+**[ai-book-consultant-mcp](https://github.com/elvirazamurueva/ai-book-consultant-mcp)**
+
+Учебный проект AI-консультанта, объединяющий Telegram, языковую модель, SQLite и MCP.
+
+Проект показывает практическое применение AI-агента для работы с данными и консультирования пользователей.
+
+**Стек:** Python · Telegram · LLM · MCP · SQLite
+
+---
+
+### AI-агент в Telegram
+
+**[ai-agent-telegram](https://github.com/elvirazamurueva/ai-agent-telegram)**
+
+Проект AI-агента, работающего через Telegram.
+
+---
+
+### Telegram-бот с памятью
+
+**[VPf06_Memory_AI](https://github.com/elvirazamurueva/VPf06_Memory_AI)**
+
+Telegram-бот с короткой и длинной памятью.
+
+Проект демонстрирует работу AI-системы с сохранением контекста взаимодействия с пользователем.
+
+**Стек:** Python · Telegram · AI · память
+
+---
+
+### AI-генератор PDF-отчётов
+
+**[AI-PDF-Generator](https://github.com/elvirazamurueva/AI-PDF-Generator)**
+
+Сервис для автоматической генерации PDF-отчётов по диалогам с клиентами с использованием ИИ.
+
+**Стек:** Python · AI · PDF
+
+---
+
+### API для приёма клиентских заявок
+
+**[lead-intake-api](https://github.com/elvirazamurueva/lead-intake-api)**
+
+Backend-сервис для автоматизации приёма клиентских заявок.
+
+Сервис принимает заявки через API, выполняет валидацию, сохраняет данные в SQLite и ведёт журнал событий для контроля поступления лидов.
+
+**Стек:** Python · REST API · SQLAlchemy · SQLite · Webhooks
+
+---
+
+### VK-бот
+
+**[VK_BOT](https://github.com/elvirazamurueva/VK_BOT)**
+
+Проект бота для платформы VK.
+
+**Стек:** Python · VK
+
+---
+
+## 📌 Другие проекты
+
+В GitHub также представлены проекты по:
+
+* Telegram-ботам;
+* работе с погодными и валютными API;
+* конвертации валют;
+* SQL и базам данных;
+* автоматизации задач;
+* CI/CD и GitHub Actions;
+* работе с PostgreSQL.
+
+---
+
+## 💡 Как я подхожу к проектам
+
+Я стараюсь двигаться от задачи к работающему решению:
+
+**задача → логика → AI / API → интеграция → хранение данных → готовый пользовательский инструмент**
+
+Особое внимание уделяю тому, чтобы проект можно было не только запустить, но и понять: с понятной структурой, документацией и описанием основных компонентов.
+
+---
+
+## 📫 Контакты
+
+GitHub: **[Yelka001](https://github.com/elvirazamurueva)**
+
+Другие контакты и ссылки будут добавлены по мере формирования портфолио.
+
+---
+
+> Портфолио находится в процессе развития. Новые AI-сервисы и автоматизации появляются здесь по мере их разработки.
